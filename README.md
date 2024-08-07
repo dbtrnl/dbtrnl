@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 - I’m looking to collaborate on any open source projects
-
-## Contacts
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-b-350621125/)
-
 ---
 
 ## Stats
